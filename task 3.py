@@ -1,0 +1,7 @@
+a=int (5.2)
+print(a)
+b=float(5)
+print(b)
+c=str(67)
+print(c)
+print(len('name'))
